@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Essentials (CSE) - Complete Exam Preparation
+# 🔐 Cybersecurity Essentials (CSE) - 2700+ Question & Answers
 
 [![Howest](https://img.shields.io/badge/Howest-Applied%20Computer%20Science-blue)](https://www.howest.be)
 [![Modules](https://img.shields.io/badge/Modules-9-green)](./Questions)
