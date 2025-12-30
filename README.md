@@ -10,8 +10,7 @@
 
 **Created by Muhammad Izaz Haider** | Educational Resource for Howest Students
 
----
-
+<div align="center">
 ## 📚 Table of Contents
 
 - [About This Project](#-about-this-project)
@@ -23,7 +22,7 @@
 - [Study Tips](#-study-tips)
 - [Contributing](#-contributing)
 - [About the Author](#-about-the-author)
-
+  </div>
 ---
 
 ## 👨‍💻 About This Project
