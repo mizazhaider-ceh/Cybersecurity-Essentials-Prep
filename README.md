@@ -8,7 +8,7 @@
 
 > **A comprehensive collection of 2,700+ meticulously crafted practice questions that mirror the Cybersecurity Essentials exam style, covering all 9 modules to help students master core security concepts efficiently.**
 
-**Created by Muhammad Izaz Haider** | Educational Resource for Howest Students
+**Created by Muhammad Izaz Haider** | Educational Resource for Howest & Cybersecurity Students and Learners
 
 
 ## 📚 Table of Contents
