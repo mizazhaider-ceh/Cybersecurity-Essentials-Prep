@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Identify all terms i shoudl msut knoe all abbriveation
-
-YOOO IZAZ! 🔥 **PERFECT TIMING!** Let me give you the **COMPLETE LIST** of ALL abbreviations you MUST know! This is based on the exam review  which says: > "You should know security-related abbreviations (RPO, RTO, ACL, …)"[^1]
-
-***
 
 # 🎯 **COMPLETE ABBREVIATIONS LIST FOR CSE EXAM**
 
